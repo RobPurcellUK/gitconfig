@@ -1,6 +1,7 @@
 # gitconfig
 config/aliases etc
 
+```
 core.autocrlf=true
 alias.lol=log --oneline --graph
 alias.loltop=log --oneline --graph -n 10
@@ -13,3 +14,4 @@ alias.pushfl=push --force-with-lease
 alias.brancha=branch -av
 alias.subup=submodule update --remote
 fetch.prune=true
+```
